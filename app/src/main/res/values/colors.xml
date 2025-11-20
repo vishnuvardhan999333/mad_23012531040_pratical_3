@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#111117</color>
+    <color name="card_dark">#2D2A38</color>
+    <color name="pink_title">#FF2DAA</color>
+    <color name="button_lilac">#CFB7FF</color>
+</resources>
